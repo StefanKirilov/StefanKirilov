@@ -10,9 +10,10 @@
 <br>
 <h2 align="center">Skills</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+<p align="center" dir="auto">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/960948d7bad3b56fe35b1acf8e904e2d8ca1f35a93f54689195dd90c58e735bd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c6a732c74732c70792c72656163742c616e67756c61722c6e6578746a73" data-canonical-src="https://skillicons.dev/icons?i=html,css,sass,js,ts,py,react,angular,nextjs" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/26fa3aec81ab608a96d33ba5bc8d1376ad41d945991d7170c3946abc99cdcc49/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d657870726573732c6e6573746a732c706f7374677265732c6d6f6e676f64622c6d7973716c2c6772617068716c2c6a657374" data-canonical-src="https://skillicons.dev/icons?i=express,nestjs,postgres,mongodb,mysql,graphql,jest" style="max-width: 100%;">
   </a>
 </p>
 <p align="center">
