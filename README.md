@@ -10,11 +10,6 @@
 <br>
 <h2 align="center">Skills</h2>
 
-<p align="center" dir="auto">
-  <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/75f17a687c4f98afe9cc731f26d9e4405847c8f6fd2b764a96df190c0aaede6a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f64652c706f73746d616e2c766974652c626f6f7473747261702c7461696c77696e642c6d6174657269616c75692c646f636b65722c66697265626173652c73757061626173652c676974687562" data-canonical-src="https://skillicons.dev/icons?i=vscode,postman,vite,bootstrap,tailwind,materialui,docker,firebase,supabase,github" style="max-width: 100%;">
-  </a>
-</p>
 <br>
 <br>
 
