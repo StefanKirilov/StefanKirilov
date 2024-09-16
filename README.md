@@ -5,7 +5,7 @@
  </div>
 <br>
 <h2 align="center"> About Me </h2>
-<p align="left">    I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied water and sewage, and also I study for JavaScript Web Developer at Software University in Bulgaria.</p>
+<p align="left">  Welcome to my page ! I'm Stefan, a junior Frontend developer from Stara Zagora, Bulgaria, but I'm willing to relocate to Sofia or Plovdiv to start my career. As a junior developer, I thoroughly enjoy working with the React framework and am passionate about delving deeper into its intricacies as I continue to study.  I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied water and sewage, and also I study for JavaScript Web Developer at Software University in Bulgaria.</p>
 
 <br>
 <h2 align="center">Skills</h2>
